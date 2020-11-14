@@ -1,0 +1,6 @@
+framework module Custom_pod {
+  umbrella header "Custom_pod-umbrella.h"
+
+  export *
+  module * { export * }
+}
